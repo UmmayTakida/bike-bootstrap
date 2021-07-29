@@ -1,13 +1,22 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.header-section{
+.header-section {
+    background-color: #264653;
+}
+.bg-form-section{
     background-color: #264653;
 }
 .header-h1
 {
     color: #FFFFFF;
-    font-size: 48px;
+    font-size: 36px !important;
+}
+.fetured-heading{
+    font-size: 36px !important;
+}
+.clients-text{
+    font-size: 56px !important;
 }
 .header-p-color
 {
