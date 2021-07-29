@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header-section{
+    background-color: #264653;
+}
+.header-h1
+{
+    color: #FFFFFF;
+    font-size: 48px;
+}
+.header-p-color
+{
+    color: #E0E0E0;
+    text-align: justify;
+}
+.btn-purchase{
+    background-color: #E76F51;
+}
+.img-gray{
+    -webkit-filter: grayscale(100%);
+                filter: grayscale(100%);
+}
+.text-orange{
+    color: #E76F51;
+}
+.fas{
+    color: #E77C40 ;
+    width: 23px;
+    height: 23px;
+}
+.far{
+    color: #E77C40 ;
+
+}
+.user-name{
+    color: #23A6F0;
+}
